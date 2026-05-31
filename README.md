@@ -1,4 +1,4 @@
-<h1>Hi, I'm Estgemar [East-jay-mar]! <br/> 💫 <a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/">Identity Access & Managment Analyst</a>
+<h1>Hi, I'm Estgemar [East-jay-mar]! 💫 <br/> <a href="https://github.com/EstgemarEwers">Programmer</a> | <a href="https://www.linkedin.com/">Identity Access & Managment Analyst</a>
 
 ### Tools
 
