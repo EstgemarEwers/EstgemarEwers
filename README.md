@@ -1,10 +1,10 @@
 <h1>Hi, I'm Estgemar [East-jay-mar]! 💫 <br/> <a href="https://github.com/EstgemarEwers">Programmer</a> | <a href="https://www.linkedin.com/">Identity Access & Managment Analyst</a>
 
-### Tools
+### ⚙️ Tools
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h2>Technologies & Skills</h2>
+<h2> 🛠️ Technologies & Skills</h2>
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
 ##
 
 
-# 👨‍💻 IAM HOME LAB PROJECTS:
+# 🔐🏠💻 IAM HOME LAB PROJECTS:
 
   - [Enterprise Identity Management Lab](https://github.com/)
   - [Microsoft Entra ID & Hybrid Identity Lab](https://github.com/)
