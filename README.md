@@ -56,7 +56,7 @@
   - [PowerShell IAM Automation Project](https://github.com/)
 
 ## 🌐  Lets Connect:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/esr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Estg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estgemar-ewers) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:estgemar@hgvh.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/esr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Est_1017) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estgemar-ewers) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:estgemarewers94@gmail.com) 
 
 ---
 [![](https://komarev.com/ghpvc/?username=EstgemarEwers)](https://visitcount.itsvg.in)
