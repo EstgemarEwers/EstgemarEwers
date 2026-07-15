@@ -50,7 +50,7 @@
 
 # 🔐🏠💻 IAM HOME LAB PROJECTS:
 
-  - [Enterprise Identity Management Lab](https://github.com/EstgemarEwers/IAM-LAB-PROJECTS/tree/main/Enterprise_Identity_Management_Lab/)
+  - [Enterprise Identity Management Lab](https://github.com/EstgemarEwers/Enterprise_Identity_Management_Lab/)
   - [Microsoft Entra ID & Hybrid Identity Lab](https://github.com/)
   - [Single Sign-On & Federation Lab ](https://github.com/)
   - [PowerShell IAM Automation Project](https://github.com/)
